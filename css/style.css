@@ -1,0 +1,72 @@
+
+*{
+	padding:0;
+	margin:0;
+
+}
+header{
+	display: block;
+}
+body{
+	background: #000000;
+	font-family: 'Secular One', sans-serif;
+}
+.header-name{
+	color:#ffffff;
+	padding-top: 10px;
+	padding-left: 30px;
+	text-shadow: 0.5px 0.5px #005670;
+	display: inline-block;
+}
+.menu-list{
+	list-style-type: none;
+	padding:10px;
+	display: inline-block;
+	float:right;
+
+}
+a{
+	text-decoration: none;
+}
+.menu-list li{
+	background:#3f3b3b;
+	display: inline-block;
+	width: 100px;
+	padding:10px 10px;
+	font-size:10px;
+	margin-bottom: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	color:#FFFFFF;
+	border-radius:3%;
+	transition: 0.4s;
+
+}
+.menu-list li:hover{
+	border-bottom:1px solid #ffffff;
+}
+.logo{
+	border:1px solid #ffffff;
+	border-radius: 50%;
+	text-align: center;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.content{
+	padding-top: 40px;
+}
+.xtext{
+	color:#ffffff;
+	text-align: left;
+	margin-left: 30%;
+	margin-right:20%;
+}
+p{
+	font-family: 'Bebas Neue', cursive;
+	line-height: 2em;
+}
+a{
+	text-decoration: none;
+	color:red;
+}
