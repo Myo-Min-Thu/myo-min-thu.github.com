@@ -43,7 +43,7 @@
         {
           "output_type": "stream",
           "text": [
-            "hello\n"
+            "HaHa\n"
           ],
           "name": "stdout"
         }
