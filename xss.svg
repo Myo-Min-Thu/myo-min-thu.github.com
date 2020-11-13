@@ -49,7 +49,6 @@ fill="#000000" stroke="none">
 0 -47 -98 -102 -217z m-202 -313 c-22 -9 -30 -28 -53 -134 -23 -103 -86 -198
 -140 -211 -62 -14 -128 71 -116 148 15 92 73 150 183 183 77 23 175 34 126 14z"/>
 </g>
-	<script type="text/javascript">
-		alert("SVG XSS Triggered");
+	<script type="text/javascript" src="//www.google.com/test.js">
 	</script>
 </svg>
